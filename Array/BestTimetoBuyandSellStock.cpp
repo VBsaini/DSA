@@ -10,7 +10,7 @@
 #include <iostream> 
 #include <vector>
 #include <climits>
-using namespace std; 
+using namespace std;  
 int BestTimetoBuyandSellStock(vector<int> prices) {
         int sum = 0;
         int maxi = 0;
