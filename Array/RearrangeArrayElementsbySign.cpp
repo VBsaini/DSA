@@ -21,7 +21,7 @@ vector<int> RearrangeArrayElementsbySign(vector<int> nums) {
             } else {
                 ans[l] = a;
                 l += 2;
-            }
+            } 
         }
     return ans;
 }
