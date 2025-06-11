@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VBsaini/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/VBsaini/DSA/tree/master/0386-lexicographical-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VBsaini/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
