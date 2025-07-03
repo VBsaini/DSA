@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VBsaini/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/VBsaini/DSA/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2571-find-the-pivot-integer](https://github.com/VBsaini/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VBsaini/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VBsaini/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VBsaini/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Enumeration
+|  |
+| ------- |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/VBsaini/DSA/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 <!---LeetCode Topics End-->
