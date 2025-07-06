@@ -57,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/VBsaini/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VBsaini/DSA/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/VBsaini/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VBsaini/DSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VBsaini/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VBsaini/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -146,4 +147,8 @@
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VBsaini/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VBsaini/DSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 <!---LeetCode Topics End-->
