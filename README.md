@@ -8,6 +8,7 @@
 | [0496-next-greater-element-i](https://github.com/VBsaini/DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/VBsaini/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VBsaini/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/VBsaini/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VBsaini/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VBsaini/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/VBsaini/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/VBsaini/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VBsaini/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VBsaini/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/VBsaini/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
