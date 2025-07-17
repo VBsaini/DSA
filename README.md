@@ -73,6 +73,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VBsaini/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/VBsaini/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VBsaini/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2551-apply-operations-to-an-array](https://github.com/VBsaini/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VBsaini/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
@@ -181,6 +183,7 @@
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VBsaini/DSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/VBsaini/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Linked List
 |  |
 | ------- |
