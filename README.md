@@ -19,6 +19,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VBsaini/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VBsaini/DSA/tree/master/0020-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VBsaini/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VBsaini/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3396-valid-word](https://github.com/VBsaini/DSA/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/VBsaini/DSA/tree/master/3617-find-the-original-typed-string-i) |
@@ -38,6 +39,7 @@
 | [0496-next-greater-element-i](https://github.com/VBsaini/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VBsaini/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VBsaini/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VBsaini/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
