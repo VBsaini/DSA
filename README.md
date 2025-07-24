@@ -38,6 +38,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/VBsaini/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/VBsaini/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VBsaini/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/VBsaini/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
@@ -70,6 +71,7 @@
 | [0496-next-greater-element-i](https://github.com/VBsaini/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VBsaini/DSA/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/VBsaini/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0735-asteroid-collision](https://github.com/VBsaini/DSA/tree/master/0735-asteroid-collision) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VBsaini/DSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
@@ -143,6 +145,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/VBsaini/DSA/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VBsaini/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/VBsaini/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VBsaini/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
