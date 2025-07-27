@@ -83,6 +83,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VBsaini/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VBsaini/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/VBsaini/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/VBsaini/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
