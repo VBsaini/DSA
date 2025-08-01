@@ -70,6 +70,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/VBsaini/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VBsaini/DSA/tree/master/0503-next-greater-element-ii) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VBsaini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
