@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VBsaini/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VBsaini/DSA/tree/master/0020-valid-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/VBsaini/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VBsaini/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VBsaini/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -41,6 +42,7 @@
 | [0503-next-greater-element-ii](https://github.com/VBsaini/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/VBsaini/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/VBsaini/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/VBsaini/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/VBsaini/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VBsaini/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -171,6 +174,7 @@
 | [0496-next-greater-element-i](https://github.com/VBsaini/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VBsaini/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/VBsaini/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2227-sum-of-subarray-ranges](https://github.com/VBsaini/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
