@@ -114,6 +114,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/VBsaini/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VBsaini/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/VBsaini/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/VBsaini/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VBsaini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/VBsaini/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/VBsaini/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VBsaini/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/VBsaini/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/VBsaini/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -257,4 +260,5 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/VBsaini/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/VBsaini/DSA/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
