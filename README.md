@@ -70,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VBsaini/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/VBsaini/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/VBsaini/DSA/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/VBsaini/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VBsaini/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VBsaini/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/VBsaini/DSA/tree/master/1813-maximum-erasure-value) |
@@ -94,6 +95,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/VBsaini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/VBsaini/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/VBsaini/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VBsaini/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/VBsaini/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VBsaini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/VBsaini/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -205,6 +208,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/VBsaini/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2571-find-the-pivot-integer](https://github.com/VBsaini/DSA/tree/master/2571-find-the-pivot-integer) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Heap (Priority Queue)
