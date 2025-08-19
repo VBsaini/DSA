@@ -111,6 +111,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/VBsaini/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/VBsaini/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VBsaini/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VBsaini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VBsaini/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -189,6 +190,7 @@
 | [1448-maximum-69-number](https://github.com/VBsaini/DSA/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VBsaini/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/VBsaini/DSA/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VBsaini/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/VBsaini/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VBsaini/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VBsaini/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
