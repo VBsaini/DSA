@@ -68,6 +68,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/VBsaini/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VBsaini/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VBsaini/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VBsaini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VBsaini/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VBsaini/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Array
 |  |
@@ -125,6 +127,7 @@
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VBsaini/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VBsaini/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/VBsaini/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VBsaini/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VBsaini/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -229,6 +232,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/VBsaini/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2571-find-the-pivot-integer](https://github.com/VBsaini/DSA/tree/master/2571-find-the-pivot-integer) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VBsaini/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,6 +248,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VBsaini/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VBsaini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VBsaini/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VBsaini/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VBsaini/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
