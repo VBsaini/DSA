@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/VBsaini/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/VBsaini/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VBsaini/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VBsaini/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -105,6 +106,7 @@
 | [0940-fruit-into-baskets](https://github.com/VBsaini/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/VBsaini/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/VBsaini/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1046-max-consecutive-ones-iii](https://github.com/VBsaini/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -172,6 +174,7 @@
 | [0402-remove-k-digits](https://github.com/VBsaini/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/VBsaini/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/VBsaini/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/VBsaini/DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -190,6 +193,7 @@
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/VBsaini/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/VBsaini/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
