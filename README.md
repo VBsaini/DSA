@@ -33,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VBsaini/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VBsaini/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VBsaini/DSA/tree/master/0076-minimum-window-substring) |
+| [0165-compare-version-numbers](https://github.com/VBsaini/DSA/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/VBsaini/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/VBsaini/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/VBsaini/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
+| [0165-compare-version-numbers](https://github.com/VBsaini/DSA/tree/master/0165-compare-version-numbers) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VBsaini/DSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
