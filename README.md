@@ -84,6 +84,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VBsaini/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/VBsaini/DSA/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VBsaini/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/VBsaini/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Queue
@@ -305,6 +306,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/VBsaini/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/VBsaini/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/VBsaini/DSA/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VBsaini/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1917-maximum-average-pass-ratio](https://github.com/VBsaini/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -400,4 +402,20 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VBsaini/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
