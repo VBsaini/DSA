@@ -135,6 +135,7 @@
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VBsaini/DSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0830-largest-triangle-area](https://github.com/VBsaini/DSA/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/VBsaini/DSA/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/VBsaini/DSA/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VBsaini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/VBsaini/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -219,6 +220,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/VBsaini/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/VBsaini/DSA/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/VBsaini/DSA/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VBsaini/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/VBsaini/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/VBsaini/DSA/tree/master/1448-maximum-69-number) |
