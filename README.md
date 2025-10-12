@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VBsaini/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/VBsaini/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -218,6 +220,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/VBsaini/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/VBsaini/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
