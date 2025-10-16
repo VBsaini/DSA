@@ -134,6 +134,7 @@
 | [0503-next-greater-element-ii](https://github.com/VBsaini/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/VBsaini/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/VBsaini/DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/VBsaini/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/VBsaini/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VBsaini/DSA/tree/master/0739-daily-temperatures) |
@@ -231,6 +232,7 @@
 | [0402-remove-k-digits](https://github.com/VBsaini/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/VBsaini/DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/VBsaini/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/VBsaini/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/VBsaini/DSA/tree/master/0876-hand-of-straights) |
