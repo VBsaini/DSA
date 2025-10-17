@@ -234,6 +234,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/VBsaini/DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/VBsaini/DSA/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/VBsaini/DSA/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/VBsaini/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/VBsaini/DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/VBsaini/DSA/tree/master/0890-lemonade-change) |
@@ -272,6 +273,7 @@
 | ------- |
 | [0326-power-of-three](https://github.com/VBsaini/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VBsaini/DSA/tree/master/0342-power-of-four) |
+| [0670-maximum-swap](https://github.com/VBsaini/DSA/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/VBsaini/DSA/tree/master/0830-largest-triangle-area) |
 | [1370-count-number-of-nice-subarrays](https://github.com/VBsaini/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VBsaini/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
