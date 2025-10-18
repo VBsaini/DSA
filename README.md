@@ -125,6 +125,7 @@
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VBsaini/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/VBsaini/DSA/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/VBsaini/DSA/tree/master/0135-candy) |
