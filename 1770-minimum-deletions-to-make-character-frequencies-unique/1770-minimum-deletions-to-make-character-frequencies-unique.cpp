@@ -1,25 +1,22 @@
 class Solution {
 public:
     int minDeletions(string s) {
-        map<int, int> M;
-        for(auto a : s){
-            M[a]++;
+        vector<int> freq(26, 0);
+        for (char c : s)
+            freq[c - 'a']++;
+
+        sort(freq.rbegin(), freq.rend()); 
+
+        int deletions = 0;
+        int maxAllowed = freq[0]; 
+
+        for (int i = 1; i < 26; i++) {
+            if (freq[i] == 0) break;  
+            maxAllowed = max(0, min(maxAllowed - 1, freq[i]));
+
+            deletions += freq[i] - maxAllowed;
         }
-        int del = 0;
-        vector<int> ex;
-        for(auto a : M){
-            int val = a.second;
-            if(find(ex.begin(), ex.end(), val) == ex.end()){
-                ex.push_back(val);
-            } else {
-                while(val != 0 && find(ex.begin(), ex.end(), val) != ex.end()){
-                    cout << val << " ";
-                    del++;
-                    val--;
-                }
-                ex.push_back(val);
-            }
-        }
-        return del;
+
+        return deletions;
     }
 };
