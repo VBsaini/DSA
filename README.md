@@ -19,6 +19,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/VBsaini/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VBsaini/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VBsaini/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VBsaini/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1813-maximum-erasure-value](https://github.com/VBsaini/DSA/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VBsaini/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -44,6 +45,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VBsaini/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VBsaini/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VBsaini/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VBsaini/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VBsaini/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VBsaini/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -246,6 +248,7 @@
 | [1448-maximum-69-number](https://github.com/VBsaini/DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VBsaini/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VBsaini/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/VBsaini/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VBsaini/DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -267,6 +270,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VBsaini/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VBsaini/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VBsaini/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
