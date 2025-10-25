@@ -290,6 +290,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VBsaini/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/VBsaini/DSA/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VBsaini/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/VBsaini/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VBsaini/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/VBsaini/DSA/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VBsaini/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
