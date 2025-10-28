@@ -192,6 +192,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VBsaini/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/VBsaini/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/VBsaini/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/VBsaini/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VBsaini/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VBsaini/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/VBsaini/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -313,6 +314,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/VBsaini/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/VBsaini/DSA/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VBsaini/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/VBsaini/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/VBsaini/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
@@ -338,6 +340,7 @@
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VBsaini/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VBsaini/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/VBsaini/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
