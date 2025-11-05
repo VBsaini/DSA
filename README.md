@@ -74,6 +74,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VBsaini/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VBsaini/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/VBsaini/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/VBsaini/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/VBsaini/DSA/tree/master/0402-remove-k-digits) |
@@ -217,6 +218,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VBsaini/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/VBsaini/DSA/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -456,6 +458,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VBsaini/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -464,6 +467,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VBsaini/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
