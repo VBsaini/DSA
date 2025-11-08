@@ -238,6 +238,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/VBsaini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VBsaini/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VBsaini/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VBsaini/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/VBsaini/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
@@ -370,6 +371,7 @@
 | ------- |
 | [0342-power-of-four](https://github.com/VBsaini/DSA/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VBsaini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VBsaini/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VBsaini/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VBsaini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VBsaini/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -477,4 +479,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VBsaini/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
