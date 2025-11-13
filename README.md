@@ -55,6 +55,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VBsaini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/VBsaini/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3396-valid-word](https://github.com/VBsaini/DSA/tree/master/3396-valid-word) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VBsaini/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/VBsaini/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VBsaini/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VBsaini/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -67,6 +68,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/VBsaini/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VBsaini/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VBsaini/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VBsaini/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VBsaini/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VBsaini/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -271,6 +273,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VBsaini/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VBsaini/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VBsaini/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VBsaini/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VBsaini/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
