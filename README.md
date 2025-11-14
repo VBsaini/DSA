@@ -189,6 +189,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VBsaini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VBsaini/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/VBsaini/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2625-increment-submatrices-by-one](https://github.com/VBsaini/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -352,6 +353,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/VBsaini/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VBsaini/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2571-find-the-pivot-integer](https://github.com/VBsaini/DSA/tree/master/2571-find-the-pivot-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/VBsaini/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VBsaini/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VBsaini/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -440,6 +442,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2625-increment-submatrices-by-one](https://github.com/VBsaini/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VBsaini/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VBsaini/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
