@@ -194,6 +194,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VBsaini/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2868-continuous-subarrays](https://github.com/VBsaini/DSA/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VBsaini/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VBsaini/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VBsaini/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VBsaini/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -319,6 +320,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/VBsaini/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/VBsaini/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VBsaini/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VBsaini/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/VBsaini/DSA/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VBsaini/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VBsaini/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
