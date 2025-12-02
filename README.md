@@ -14,6 +14,7 @@
 | [0876-hand-of-straights](https://github.com/VBsaini/DSA/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/VBsaini/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/VBsaini/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VBsaini/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VBsaini/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VBsaini/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VBsaini/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -235,6 +236,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/VBsaini/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/VBsaini/DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/VBsaini/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VBsaini/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 | [0621-task-scheduler](https://github.com/VBsaini/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/VBsaini/DSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VBsaini/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VBsaini/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VBsaini/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VBsaini/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -492,6 +495,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/VBsaini/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/VBsaini/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VBsaini/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -509,6 +513,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/VBsaini/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/VBsaini/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VBsaini/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VBsaini/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -524,4 +529,5 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/VBsaini/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VBsaini/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VBsaini/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VBsaini/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
