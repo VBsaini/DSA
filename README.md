@@ -54,6 +54,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VBsaini/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VBsaini/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/VBsaini/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VBsaini/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VBsaini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/VBsaini/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -93,6 +94,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/VBsaini/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VBsaini/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/VBsaini/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/VBsaini/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -340,6 +342,7 @@
 | [0735-asteroid-collision](https://github.com/VBsaini/DSA/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VBsaini/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/VBsaini/DSA/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/VBsaini/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VBsaini/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VBsaini/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/VBsaini/DSA/tree/master/2551-apply-operations-to-an-array) |
