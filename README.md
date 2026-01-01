@@ -146,6 +146,7 @@
 | [0045-jump-game-ii](https://github.com/VBsaini/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/VBsaini/DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/VBsaini/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/VBsaini/DSA/tree/master/0134-gas-station) |
@@ -324,6 +325,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/VBsaini/DSA/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/VBsaini/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VBsaini/DSA/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/VBsaini/DSA/tree/master/0670-maximum-swap) |
