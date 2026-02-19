@@ -49,6 +49,7 @@
 | [0402-remove-k-digits](https://github.com/VBsaini/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/VBsaini/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/VBsaini/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/VBsaini/DSA/tree/master/0696-count-binary-substrings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/VBsaini/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VBsaini/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VBsaini/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -457,6 +458,7 @@
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/VBsaini/DSA/tree/master/0165-compare-version-numbers) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0696-count-binary-substrings](https://github.com/VBsaini/DSA/tree/master/0696-count-binary-substrings) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VBsaini/DSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VBsaini/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VBsaini/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
