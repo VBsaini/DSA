@@ -470,6 +470,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VBsaini/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/VBsaini/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0355-design-twitter](https://github.com/VBsaini/DSA/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VBsaini/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VBsaini/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
