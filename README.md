@@ -149,6 +149,7 @@
 | [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/VBsaini/DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/VBsaini/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/VBsaini/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/VBsaini/DSA/tree/master/0134-gas-station) |
@@ -316,6 +317,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VBsaini/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VBsaini/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -460,6 +462,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/VBsaini/DSA/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/VBsaini/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VBsaini/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VBsaini/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
