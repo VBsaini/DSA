@@ -278,6 +278,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/VBsaini/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VBsaini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1137-n-th-tribonacci-number](https://github.com/VBsaini/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VBsaini/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VBsaini/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VBsaini/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -346,6 +347,7 @@
 | [0670-maximum-swap](https://github.com/VBsaini/DSA/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/VBsaini/DSA/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VBsaini/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1137-n-th-tribonacci-number](https://github.com/VBsaini/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/VBsaini/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/VBsaini/DSA/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VBsaini/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -575,6 +577,7 @@
 ## Memoization
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/VBsaini/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VBsaini/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Breadth-First Search
 |  |
