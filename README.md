@@ -273,6 +273,7 @@
 | [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VBsaini/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/VBsaini/DSA/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/VBsaini/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/VBsaini/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/VBsaini/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -342,6 +343,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/VBsaini/DSA/tree/master/0066-plus-one) |
+| [0279-perfect-squares](https://github.com/VBsaini/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/VBsaini/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VBsaini/DSA/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/VBsaini/DSA/tree/master/0670-maximum-swap) |
@@ -587,6 +589,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VBsaini/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VBsaini/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/VBsaini/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/VBsaini/DSA/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VBsaini/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VBsaini/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
