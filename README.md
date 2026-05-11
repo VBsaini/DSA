@@ -181,6 +181,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/VBsaini/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/VBsaini/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VBsaini/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0983-minimum-cost-for-tickets](https://github.com/VBsaini/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VBsaini/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/VBsaini/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
@@ -285,6 +286,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/VBsaini/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VBsaini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0983-minimum-cost-for-tickets](https://github.com/VBsaini/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/VBsaini/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VBsaini/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VBsaini/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
