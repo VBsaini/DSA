@@ -44,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VBsaini/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VBsaini/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VBsaini/DSA/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/VBsaini/DSA/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/VBsaini/DSA/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/VBsaini/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/VBsaini/DSA/tree/master/0402-remove-k-digits) |
@@ -274,6 +275,7 @@
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VBsaini/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/VBsaini/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VBsaini/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/VBsaini/DSA/tree/master/0198-house-robber) |
