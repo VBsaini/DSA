@@ -150,6 +150,7 @@
 | [0045-jump-game-ii](https://github.com/VBsaini/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/VBsaini/DSA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/VBsaini/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/VBsaini/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/VBsaini/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -278,6 +279,7 @@
 | [0045-jump-game-ii](https://github.com/VBsaini/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VBsaini/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/VBsaini/DSA/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/VBsaini/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VBsaini/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -516,6 +518,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/VBsaini/DSA/tree/master/0063-unique-paths-ii) |
 | [1975-maximum-matrix-sum](https://github.com/VBsaini/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/VBsaini/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VBsaini/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
