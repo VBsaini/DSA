@@ -277,6 +277,7 @@
 | [0042-trapping-rain-water](https://github.com/VBsaini/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VBsaini/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VBsaini/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/VBsaini/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/VBsaini/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VBsaini/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -354,6 +355,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VBsaini/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/VBsaini/DSA/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/VBsaini/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/VBsaini/DSA/tree/master/0326-power-of-three) |
@@ -538,6 +540,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VBsaini/DSA/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VBsaini/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Tree
 |  |
