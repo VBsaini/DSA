@@ -185,6 +185,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/VBsaini/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VBsaini/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/VBsaini/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/VBsaini/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-minimum-absolute-difference](https://github.com/VBsaini/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/VBsaini/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/VBsaini/DSA/tree/master/1390-four-divisors) |
@@ -292,6 +293,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/VBsaini/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/VBsaini/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/VBsaini/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/VBsaini/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VBsaini/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VBsaini/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VBsaini/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -519,6 +521,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/VBsaini/DSA/tree/master/0063-unique-paths-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/VBsaini/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1975-maximum-matrix-sum](https://github.com/VBsaini/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/VBsaini/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VBsaini/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
