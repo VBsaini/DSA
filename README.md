@@ -31,6 +31,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VBsaini/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/VBsaini/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2540-minimum-common-value](https://github.com/VBsaini/DSA/tree/master/2540-minimum-common-value) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/VBsaini/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/VBsaini/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VBsaini/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VBsaini/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -66,6 +67,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VBsaini/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VBsaini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/VBsaini/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/VBsaini/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3396-valid-word](https://github.com/VBsaini/DSA/tree/master/3396-valid-word) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VBsaini/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/VBsaini/DSA/tree/master/3606-coupon-code-validator) |
