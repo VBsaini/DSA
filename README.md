@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VBsaini/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/VBsaini/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/VBsaini/DSA/tree/master/0076-minimum-window-substring) |
 | [0355-design-twitter](https://github.com/VBsaini/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/VBsaini/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -156,6 +157,7 @@
 | [0057-insert-interval](https://github.com/VBsaini/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/VBsaini/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/VBsaini/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/VBsaini/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VBsaini/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VBsaini/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/VBsaini/DSA/tree/master/0118-pascals-triangle) |
@@ -529,6 +531,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/VBsaini/DSA/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/VBsaini/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/VBsaini/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1975-maximum-matrix-sum](https://github.com/VBsaini/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/VBsaini/DSA/tree/master/2625-increment-submatrices-by-one) |
